@@ -1,15 +1,15 @@
 ---
 layout: single
 title:  Amal Dev
-position: Content Designer
+position: Art Director
 role: "team"
 header:
     teaser: /assets/img/people/mvr_team_amal.png
 permalink: /people/amal
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Amal Dev is a designer and researcher at IDC School of Design, IIT Bombay. He works on the possibilities of storytelling in immersive media. His work primarily falls in the fields of storytelling and communication design."
 modalname: "amal"
 links:
     - label: "Email"

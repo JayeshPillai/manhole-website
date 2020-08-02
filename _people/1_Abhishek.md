@@ -17,7 +17,7 @@ links:
       #url: mailto:entermailhere
     - label: "Website"
       #icon: "fas fa-fw fa-link"
-      url: ""
+      #url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       #url: ""

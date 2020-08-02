@@ -8,8 +8,8 @@ header:
 permalink: /people/jayesh
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Jayesh is a VR Filmmaker. He works in the domain of immersive media design (virtual, augmented, and extended reality). Jayesh is presently a faculty at the IDC School of Design, IIT Bombay, India."
 modalname: "jayesh"
 links:
     - label: "Email"

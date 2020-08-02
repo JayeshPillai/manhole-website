@@ -1,15 +1,15 @@
 ---
 layout: single
 title:  Amarnath Murugan
-position: Unity Developer
+position: VR/XR Developer
 role: "team"
 header:
     teaser: /assets/img/people/mvr_team_amarnath.png
 permalink: /people/amarnath
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Amarnath is a researcher and developer at IDC School of Design, IIT Bombay. His specialization is in Extended Reality, with collaborations with pioneering startups and researchers in the field for almost four years."
 modalname: "amarnath"
 links:
     - label: "Email"
@@ -20,7 +20,7 @@ links:
       url: "https://amarnathmurugan.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/vanukuru"
+      #url: ""
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://in.linkedin.com/in/amarnathmurugan"
