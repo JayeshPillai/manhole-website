@@ -7,7 +7,7 @@ header:
 tags: VR-Film Storytelling
 ---
 
-<figure class="align-center" style="width:400px;">
+<figure class="align-center" style="width: 100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 

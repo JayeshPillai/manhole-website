@@ -5,7 +5,7 @@ layout: contactsingle
 ---
 
 
-<figure style="width: 400px" class="align-right">
+<figure style="width:100%; max-width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/billu1.png" alt="">
   <span style="text-align:center;"><figcaption>Hey there! I'm Billu.</figcaption></span>
 </figure> 

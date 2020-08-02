@@ -12,7 +12,7 @@ It is an animated real-time Virtual Reality Film.
 
 > "Compelled by the exigencies of poor economic life and marginalized caste-identity, Amitabh, a young law graduate, enters the occupation of manual scavenging. Despite his experience solely with the smaller manholes, Amitabh, for some extra money, decides to get inside a large unsafe sewer. He neither has a protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out?"
 
-<figure class="align-center" style="width:400px;">
+<figure class="align-center" style="width:100%; max-width:500px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
 </figure> 
 
@@ -30,7 +30,7 @@ It is an animated real-time Virtual Reality Film.
 Manual scavenging is the act of manually cleaning human
 waste and is done by people called manual scavengers.
 
-<figure class="align-center" style="width:400px;">
+<figure class="align-center" style="width:100%; max-width:500px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter.png" alt="">
 </figure> 
 
