@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Manhole - VR Film"
 description              : "A VR Film Experience"
 url                      : "https://jayeshpillai.github.io/"
-baseurl                  : "/manhole-website"
+baseurl                  : "/"
 repository               : "JayeshPillai/manhole-website/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://jayeshpillai.github.io/manhole-website/assets/img/manholevr_logo_white.png"
