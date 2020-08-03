@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Amarnath Murugan
-position: VR/XR Developer
+position: Technical Director
 role: "team"
 header:
     teaser: /assets/img/people/mvr_team_amarnath.png

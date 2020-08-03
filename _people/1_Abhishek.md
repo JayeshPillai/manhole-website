@@ -9,7 +9,7 @@ permalink: /people/abhishek
 type: people
 fullpage: "no"
 modal: "yes"
-modaltext: "Text Goes Here."
+modaltext: "Abhishek is a national award winning film-maker, animator, illustrator & screenplay writer. He has over 8+ years of experience in creating 2D animated content, and independent animation films for clients from different niches."
 modalname: "abhishek"
 links:
     - label: "Email"

@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  Arun Babu
-position: 3D Content Designer
+title:  Shantanu Yennemadi
+position: Sound Designer
 role: "team"
 header:
-    teaser: /assets/img/people/mvr_team_placeholder.png
+    teaser: /assets/img/people/mvr_team_shantanu.png
 permalink: /people/arun
 type: people
 fullpage: "no"
 modal: "no"
 modaltext: "Text Goes Here."
-modalname: "arun"
+modalname: "shantanu"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -23,7 +23,7 @@ links:
       #url: ""
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/arun-babu-a55a1b124/"
+      url: "https://www.linkedin.com/in/shantanu-yennemadi-04412233/"
 ---
 
 Text Here

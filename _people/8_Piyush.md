@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  Yogini Mukund Oke
-position: Story Consultant
+title:  Piyush Priyadarshi
+position: Production Manager
 role: "team"
 header:
-    teaser: /assets/img/people/mvr_team_placeholder.png
-permalink: /people/yogini
+    teaser: /assets/img/people/mvr_team_piyush.png
+permalink: /people/piyush
 type: people
 fullpage: "no"
 modal: "no"
 modaltext: "Text Goes Here."
-modalname: "yogini"
+modalname: "piyush"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -27,5 +27,3 @@ links:
 ---
 
 Text Here
-
-

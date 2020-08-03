@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  Shantanu Yennemadi
-position: Sound Designer
+title:  Vikas Srivastava
+position: Content Writer
 role: "team"
 header:
-    teaser: /assets/img/people/mvr_team_placeholder.png
-permalink: /people/shantanu
+    teaser: /assets/img/people/mvr_team_vikas.png
+permalink: /people/vikas
 type: people
 fullpage: "no"
 modal: "no"
 modaltext: "Text Goes Here."
-modalname: "shantanu"
+modalname: "vikas"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -23,7 +23,7 @@ links:
       #url: ""
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      #url: ""
+      url: "https://in.linkedin.com/in/vikas-srivastava-55a0a0114"
 ---
 
 Text Here

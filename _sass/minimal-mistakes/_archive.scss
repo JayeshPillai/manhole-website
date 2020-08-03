@@ -103,7 +103,7 @@
 
 .archive__item-teaser {
   position: relative;
-  //border-radius: $border-radius*3;
+  border-radius: $border-radius*3;
   overflow: hidden;
 }
 
@@ -560,7 +560,7 @@ position: absolute;
     display: flex;
     flex-direction: row;
       justify-content: space-between;
-
+      border-radius: $border-radius*3;
 
     
  
