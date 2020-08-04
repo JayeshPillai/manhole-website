@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Piyush Priyadarshi
-position: Production Manager
+position: Executive Producer
 role: "team"
 header:
     teaser: /assets/img/people/mvr_team_piyush.png

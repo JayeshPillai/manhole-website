@@ -8,8 +8,8 @@ header:
 permalink: /people/vikas
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Vikas is a Young India Fellow from Ashoka University and has completed an MA in Liberal Studies. He believes to have a flair for Critical Thinking, Creative Writing, Teaching, Storytelling and Community building."
 modalname: "vikas"
 links:
     - label: "Email"
