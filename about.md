@@ -11,7 +11,15 @@ tags: VR-Film Storytelling
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 
+## <b>The VR Experience</b>
 
+Experiencing the film in 360° virtual reality (VR) is to immerse oneself into the spatio-temporal reality of the characters in the story. You would find yourself standing next to the characters and experiencing the story unfold around you. This allows you to experience the world of Amitabh, Bunty and Billu as if you are one of the characters in the story, fully present in the story-environment.
+
+This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows the viewer to move around and explore the environment while experiencing the story.
+
+The film also explores the current state-of-the-art in audio experience. Our story environment would have 3D spatial audio. It provides an atmosphere where the sound responds to the direction of the viewer's point-of-view. 
+
+<br>
 
 ## <b>Real-Time VR Film Experience</b>
 
@@ -39,3 +47,8 @@ incidents are either the products of the author’s imagination
 or used in a fictitious manner. Any resemblance to actual
 persons, living or dead, or actual events is purely
 coincidental.
+
+<figure class="align-center" style="width:100%; max-width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
+</figure> 
+

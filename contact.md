@@ -16,7 +16,7 @@ layout: contactsingle
 
 Manhole VR Film
 
-Mail: <a style="color: #ffba08;" href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
+Mail: <a style="color: #cc9200;" href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
 
 <br><br>
 
