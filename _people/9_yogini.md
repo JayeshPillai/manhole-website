@@ -8,8 +8,8 @@ header:
 permalink: /people/yogini
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Yogini Oke is a law graduate, a policy enthusiast and an aspiring writer. She likes to tell a story, in all her work."
 modalname: "yogini"
 links:
     - label: "Email"
