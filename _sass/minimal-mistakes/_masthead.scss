@@ -11,11 +11,11 @@
   //-webkit-animation-delay: 0.15s;
   //animation-delay: 0.15s;
   z-index: 20;
-  background-color: #665252;
+  background-color: $navbar-color;
 width: 100%;
   &__inner-wrap {
     max-width: $medium-wide;
-    background-color: #665252;
+    background-color: $navbar-color;
 
     @include clearfix;
     margin-left: auto;

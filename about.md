@@ -11,44 +11,35 @@ tags: VR-Film Storytelling
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 
-## <b>The VR Experience</b>
+> <large> “Touching the experience of those who have, for generations, remained untouched.” </large>
 
-Experiencing the film in 360° virtual reality (VR) is to immerse oneself into the spatio-temporal reality of the characters in the story. You would find yourself standing next to the characters and experiencing the story unfold around you. This allows you to experience the world of Amitabh, Bunty and Billu as if you are one of the characters in the story, fully present in the story-environment.
-
-This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows the viewer to move around and explore the environment while experiencing the story.
-
-The film also explores the current state-of-the-art in audio experience. Our story environment would have 3D spatial audio. It provides an atmosphere where the sound responds to the direction of the viewer's point-of-view. 
+A manual scavenger’s experience inside a sewage manhole surpasses our understanding and imaginations. Our Humanity would tell us that it would be inhuman and unjust for any human to live through such a reality. Yet it is this very humanity that demands an urgency to make the experience of a manual scavenger an inclusive and integrated part of mainstream consciousness. Through a VR film, Manhole attempts to bridge this social gap by touching the experience of those who have, for generations, remained untouched. 
 
 <br>
 
-## <b>Real-Time VR Film Experience</b>
+## **Why VR Film?**
 
-* Animated VR Film: An immersive story experience of an animation short film in virtual reality
+Experiencing the film in 360° virtual reality (VR) is to immerse oneself into the spatio-temporal reality of the characters in the story. You would find yourself standing next to the characters and experiencing the story unfold around you. This allows you to experience the world of Amitabh, Bunty and Billu as if you are one of the characters in the story, fully present in the story-environment. By facilitating a VR Film experience of a manual scavenger, ‘Manhole’ wishes to initiate a reconciliatory process in Indian society where compassion and empathy for the ones on the margins become a driver of social change.
 
-* Visual : Panoramic 360 degree view with stereo 3D visuals
+This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows the viewer to move around and explore the environment while experiencing the story. The film also explores the current state-of-the-art in audio experience. Our story environment would have 3D spatial audio. It provides an atmosphere where the sound responds to the direction of the viewer's point-of-view. 
 
-* Audio : Real-time spatial audio based of the audience’s perspective
-
-* Degree of Freedom: 
-Real-time 6 degree-of-freedom to move around and experience the narrative
-
-* Running Time: 
-12 Minutes
-
-* Languages: English, Hindi
 
 <br>
 
-## <b>Disclaimer</b>
+## **Manhole - The Project at Large:**
+‘Manhole’ is a three-part incremental project involving i) VR ii) Graphic Novel and iii) Animated Feature Film. VR film is the short form reality segment of the Project. 
 
-> This is a work of fiction. Names,
-characters, businesses, places, events, locales, and
-incidents are either the products of the author’s imagination
-or used in a fictitious manner. Any resemblance to actual
-persons, living or dead, or actual events is purely
-coincidental.
+
 
 <figure class="align-center" style="width:100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
 </figure> 
 
+
+
+> **Disclaimer:** This is a work of fiction. Names,
+characters, businesses, places, events, locales, and
+incidents are either the products of the author’s imagination
+or used in a fictitious manner. Any resemblance to actual
+persons, living or dead, or actual events is purely
+coincidental.

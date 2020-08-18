@@ -16,10 +16,15 @@ layout: contactsingle
 
 Manhole VR Film
 
-Mail: <a style="color: #cc9200;" href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
+Mail: [contact@manholefilm.com](mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team)
 
-<br><br>
+<br>
 
+**Collaborations:**
+
+We are actively looking forward to potential collaborations with VR, animation and game design studios.
+
+<br>
 
 **Openings:**
 

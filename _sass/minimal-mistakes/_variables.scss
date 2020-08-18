@@ -7,14 +7,14 @@
    ========================================================================== */
 
 @font-face {
-  font-family: Gotham;
-  src: url('/assets/fonts/Gotham-Book.ttf');
+  font-family: Montserrat;
+  src: url('/assets/fonts/Montserrat/Montserrat-Medium.ttf');
   font-weight: normal;
 }
 
 @font-face {
-  font-family: Gotham;
-  src: url('/assets/fonts/Gotham-Bold.otf');
+  font-family: Montserrat;
+  src: url('/assets/fonts/Montserrat/Montserrat-Bold.ttf');
   font-weight: bold;
 }
 
@@ -42,7 +42,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: "Montserrat" !default;
 $caption-font-family: $sans-serif !default;
 
 /* type scale */

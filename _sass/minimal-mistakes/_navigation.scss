@@ -435,7 +435,7 @@
       padding-right: 0px;
         &:hover {
       //color: $primary-color;
-        background: #665252;
+        background: $navbar-color;
     }
         
         @include breakpoint(max-width $medium-wide)
