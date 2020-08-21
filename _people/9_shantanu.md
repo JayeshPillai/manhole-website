@@ -8,8 +8,8 @@ header:
 permalink: /people/arun
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Shantanu is currently a self-employed Sound Engineer. He has worked in the sound department for numerous Indian movies and series including Uri, Pink, Badhaai Ho, Bajirao Mastani, Sacred Games and Ghost Stories."
 modalname: "shantanu"
 links:
     - label: "Email"

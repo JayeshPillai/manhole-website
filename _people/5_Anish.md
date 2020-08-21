@@ -8,8 +8,8 @@ header:
 permalink: /people/anish
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Anish is an enthusiastic character animator who finished his B.Sc in animation and VFX from Manipal University. He has over an year's experience in the industry. His specialization is in 3D animation, modeling, and rigging."
 modalname: "anish"
 links:
     - label: "Email"

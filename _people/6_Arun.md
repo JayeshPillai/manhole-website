@@ -8,8 +8,8 @@ header:
 permalink: /people/arun
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Arun Babu is designer and 3D artist with a background in architecture. He has a masters degree in Transportation Design from IDC School of Design, IIT Bombay."
 modalname: "arun"
 links:
     - label: "Email"

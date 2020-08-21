@@ -8,8 +8,8 @@ header:
 permalink: /people/piyush
 type: people
 fullpage: "no"
-modal: "no"
-modaltext: "Text Goes Here."
+modal: "yes"
+modaltext: "Piyush Priyadarshi is experienced professional in Content Development for Digital Learning and development, Content Analysis Planning & Strategy for entertainment and communication design. His professional career with Autodesk, introduced him to the virtual world of digital entertainment and learning."
 modalname: "piyush"
 links:
     - label: "Email"
