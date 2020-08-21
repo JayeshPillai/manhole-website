@@ -18,7 +18,9 @@ Manual scavenging is the occupation of sanitation work in India, involving manua
 
 But the question that faces every person embodying a basic sense of humanity is- why is it that such an inhumane practice, despite being barred by law, continues to persist commonly? The answers are not simple but complexly tied down to caste-identities. 
 
-<br>
+<figure class="align-center" style="width:100%; max-width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter1.png" alt="">
+</figure> 
 
 ## **Why does it still prevail?**
 
@@ -49,4 +51,11 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
 <li>Despite the law, for a country as large and densely populated as India, any change, as Mahatma Gandhi professed, could come only from within. Such a consciousness of change has not yet penetrated the minds of common Indians who still practice caste-based occupations and are habituated to old laws of employing labor, making them indifferent towards such inhumane practices.  </li>
 </ul>
 
+<figure class="align-center" style="width:100%; max-width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter3.png" alt="">
+</figure> 
 
+
+## **Gandhi-Ambedkar on Caste**
+
+Mahatma Gandhi and B.R. Ambedkar were two of the many leading figures, who worked differently towards solving the problem of caste in India. For Ambedkar, caste was a political problem while for Gandhi it was a social one. Baba Saheb Ambedkar fought his entire life for changing the conditions of Dalits. While he was the pioneer in empowering the voices of Dalits by granting them unique political representation and legal status in Indian society, Mahatma Gandhi’s methods were different and more socio-psychological. Gandhi Ji spent significant time in his life cleaning dry latrines himself as a matter of spiritual practice. Whosever [volunteered to work at his ashram](https://www.telegraphindia.com/opinion/ideas-that-made-the-man/cid/1466393) would first be given the task of cleaning the latrine. In this way, Gandhi Ji wanted to radically tweak the upper caste consciousness and their perception of dirt, by making them embrace it. However, neither Ambedkar nor Gandhi were fully successful in their work of social change with respect to caste. Yet, their contributions and ideas are with us today, inspiring us to strive towards ending the inhumane social injustices persisting in India.
