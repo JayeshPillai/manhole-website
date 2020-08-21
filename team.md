@@ -14,7 +14,7 @@ gallery1:
     image_path: /assets/img/mvrimages/partners_logo_idc.png
     alt: "IDC-IITB"
     title: "IDC-IITB"
-  - url: /team
+  - url: /contact
     image_path: /assets/img/mvrimages/partners_logo_who.png
     alt: "Collaborate with us?"
     title: "Collaborate with us?"
