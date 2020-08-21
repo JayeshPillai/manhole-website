@@ -59,7 +59,7 @@ Because it is impossible to get to know the truth in the field and we chose VR.
 > "In 2013, the [Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act](http://legislative.gov.in/sites/default/files/A2013-25.pdf) criminalized the practice and employability of any form of manual cleaning, carrying, disposing or handling of human waste. Yet, about [62,904](https://www.thehindu.com/news/national/indias-manual-scavenging-problem/article30834545.ece) men and women are engaged in some form of manual scavenging."
 
 <figure class="align-right" style="width:100%; max-width:400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter2.png" alt="">
 </figure> 
 
 **What is Manual Scavenging?**<br>
