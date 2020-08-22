@@ -34,6 +34,7 @@ Currently no positions are open.
 
 **Donations:**
 
-If you wish to donate to this project, you can do it here.
 Details coming soon.
+If you wish to donate to this project, please check back here. <br>
+
 
