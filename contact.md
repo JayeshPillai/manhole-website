@@ -30,5 +30,10 @@ We are actively looking forward to potential collaborations with VR, animation a
 
 Currently no positions are open.
 
+<br>
 
+**Donations:**
+
+If you wish to donate to this project, you can do it here.
+Details coming soon.
 
