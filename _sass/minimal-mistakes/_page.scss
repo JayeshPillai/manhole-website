@@ -672,6 +672,44 @@ Home AR 360 images
        }
 
 
+/*
+Floating Button Style
+========================================================================== */
+#floating_button {
+  display: inline-block;
+  background-color: $link-color;
+  height: 100px;
+  width: 100px;
+  padding: 20px 10px 0px 10px;
+  text-align: center;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .5s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+  font-family: Baloo;
+  font-size: $type-size-6;
+  line-height: 20px;
+  color: #fff;
+  text-decoration: none !important;
+}
+#floating_button:hover {
+  cursor: pointer;
+  background-color: $link-color-hover;
+}
+#floating_button:active {
+  background-color: #555;
+}
+#floating_button.show {
+  opacity: 0.85;
+  visibility: visible;
+}
+
+
 
 /*
 Media Query
@@ -683,6 +721,13 @@ Media Query
     margin-top: 60px;
     height: 250px;
     
+}
+
+#floating_button {
+  height: 70px;
+  width: 70px;
+  line-height: 14px;
+  padding: 14px 10px 0px 10px;
 }
 
 }

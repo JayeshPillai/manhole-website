@@ -34,7 +34,24 @@
         {% include footer/custom.html %}
         {% include_cached footer.html %}
       </footer>
+
+<!-- Floating button -->
+<a id="floating_button" href="/contact">Donate <br>to the <br>Project?</a>
+
     </div>
+
+<!-- Floating Button Script -->  
+<script type="text/javascript">
+      var btn = $('#floating_button');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+    </script>
 
     {% include scripts.html %}
       {% include open-embed.html %}
