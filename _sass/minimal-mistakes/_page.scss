@@ -675,9 +675,12 @@ Home AR 360 images
 /*
 Floating Button Style
 ========================================================================== */
-#floating_button {
+
+ #floating_button_container{
   display: inline-block;
-  background-color: $link-color;
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:contain;
   height: 100px;
   width: 100px;
   padding: 20px 10px 0px 10px;
@@ -686,29 +689,53 @@ Floating Button Style
   position: fixed;
   bottom: 30px;
   right: 30px;
-  transition: background-color .5s, 
-    opacity .5s, visibility .5s;
+  transition: transform 0.3s, filter .3s, bottom .3s, right .3s, opacity .5s, visibility .5s;
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
+ }
+
+
+#floating_button{
+  display: inline-block;
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:contain;
+  height: 100px;
+  width: 100px;
+  padding: 20px 10px 0px 10px;
+  text-align: center;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: transform 0.3s, filter .3s, bottom .3s, right .3s, opacity .5s, visibility .5s;
   font-family: Baloo;
   font-size: $type-size-6;
   line-height: 20px;
   color: #fff;
+}
+
+#floating_button_link {
   text-decoration: none !important;
 }
-#floating_button:hover {
+
+#floating_button_container:hover #floating_button {
   cursor: pointer;
-  background-color: $link-color-hover;
+  filter: drop-shadow(5px 5px 2px #222);
+  bottom: 40px;
+  right: 45px;
+  -ms-transform: rotate(-20deg); /* IE 9 */
+  transform: rotate(-20deg);
 }
 #floating_button:active {
   background-color: #555;
 }
-#floating_button.show {
-  opacity: 0.85;
+
+#floating_button_container.show {
+  opacity: 1;
   visibility: visible;
 }
-
 
 
 /*
@@ -723,7 +750,7 @@ Media Query
     
 }
 
-#floating_button {
+#floating_button, #floating_button_container {
   height: 70px;
   width: 70px;
   line-height: 14px;
