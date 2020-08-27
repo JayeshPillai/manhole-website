@@ -709,25 +709,29 @@ Floating Button Style
   position: fixed;
   bottom: 30px;
   right: 30px;
-  transition: transform 0.3s, filter .3s, bottom .3s, right .3s, opacity .5s, visibility .5s;
+  transition: transform 0.2s, filter .2s, bottom .2s, right .2s, opacity .2s, visibility .2s;
   font-family: Baloo;
   font-size: $type-size-6;
   line-height: 20px;
   color: #fff;
 }
 
-#floating_button_link {
+#floating_button_text {
   text-decoration: none !important;
 }
 
 #floating_button_container:hover #floating_button {
-  cursor: pointer;
   filter: drop-shadow(5px 5px 2px #222);
   bottom: 40px;
   right: 45px;
   -ms-transform: rotate(-20deg); /* IE 9 */
   transform: rotate(-20deg);
 }
+
+#floating_button_container:hover {
+  cursor: pointer;
+}
+
 #floating_button:active {
   background-color: #555;
 }
