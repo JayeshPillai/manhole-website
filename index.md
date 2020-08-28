@@ -21,8 +21,9 @@ gallery1:
 
 <br>
 
-Manhole is India’s first Real-Time Animated VR Film, conveying the reality of manual scavenging in India.
-
+<span style="font-size: larger; font-style: italic;">
+"<b>Manhole</b> is India’s first Real-Time Animated VR Film, conveying the reality of manual scavenging."
+</span>
 <br>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">

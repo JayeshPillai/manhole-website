@@ -23,7 +23,7 @@ links:
       #url: ""
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      #url: ""
+      url: "https://www.linkedin.com/in/piyush-priyadarshi-42625819/"
 ---
 
 Text Here
