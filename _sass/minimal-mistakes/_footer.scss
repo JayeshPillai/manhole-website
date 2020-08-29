@@ -51,8 +51,16 @@
   font-family: $global-font-family;
   font-size: $type-size-7;
      text-align: center;
-    color: rgba(255,255,255,0.5);
+    color: #888;
 }
+
+.page__footer-credits {
+  font-family: $global-font-family;
+  font-size: $type-size-8;
+     text-align: center;
+    color: #555;
+}
+
 
 .page__footer-links {
   font-family: $global-font-family;
