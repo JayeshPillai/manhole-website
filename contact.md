@@ -37,7 +37,7 @@ We are attempting to make an independent VR animation film by collaborating as a
 
 For contributing please write to us and we shall share our account details. You can also contribute by lending or donating any high-end devices that shall help us complete the film. 
 
-Perhaps all that is needed is just a hand of 101 rupees to initiate a change that promises to lift a community out of Manhole.
+**Perhaps all that is needed is just a hand of 101 rupees to initiate a change that promises to lift a community out of Manhole.**
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="mailto:hello@manholefilm.com?subject=I would like to contribute to ManholeVR Project">Donate to Manhole VR Project ▷</a>   

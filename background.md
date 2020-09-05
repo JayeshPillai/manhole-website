@@ -66,12 +66,12 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
 Mahatma Gandhi and B.R. Ambedkar were two of the many leading figures, who worked differently towards solving the problem of caste in India. For Ambedkar, caste was a political problem while for Gandhi it was a social one. 
 
 Baba Saheb Ambedkar fought his entire life for changing the conditions of Dalit community.
-He writes, <span style="font-style: italic; font-family: serif;">“Caste is a state of mind. It is a disease of mind. The teachings of Hindu religion are the root cause of this disease. We practice casteism and observe untouchability because we are enjoined by Hindu religion.”</span>
+He writes, <span style="font-style: italic; font-family: serif; font-weight: bold;">“Caste is a state of mind. It is a disease of mind. The teachings of Hindu religion are the root cause of this disease. We practice casteism and observe untouchability because we are enjoined by Hindu religion.”</span>
 
 While Ambedkar was the pioneer in empowering the voices of the Dalit community by granting them unique political representation and legal status in Indian society, Mahatma Gandhi’s methods were different and more socio-psychological. 
 
 Gandhi Ji spent significant time in his life cleaning dry latrines himself as a matter of spiritual practice. Whosoever volunteered to work at his ashram would first be given the task of cleaning the latrine. 
-<span style="font-style: italic; font-family: serif;">“We are all Shudras and if we can bring ourselves to believe this, the merger of the Harijans in Savarana Hindus becomes incredibly simple and in course of time, we might be able to reconstruct the old varnas.”</span>
+<span style="font-style: italic; font-family: serif; font-weight: bold;">“We are all Shudras and if we can bring ourselves to believe this, the merger of the Harijans in Savarana Hindus becomes incredibly simple and in course of time, we might be able to reconstruct the old varnas.”</span>
 In this way, Gandhi Ji wanted to radically tweak the upper caste consciousness and their perception of dirt, by making them embrace it. 
 
 However, neither Ambedkar nor Gandhi were fully successful in their work of social change with respect to caste. Yet, their contributions and ideas are with us today, inspiring us to strive towards ending the inhumane social injustices persisting in India.
