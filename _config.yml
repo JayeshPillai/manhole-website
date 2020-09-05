@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "manholevr" # "air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Manhole VR Film"
+title                    : "Manhole VR"
 title_separator          : "•"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Manhole - VR Film"
-description              : "A VR Film Experience"
+description              : "A VR Film on Manual Scavenging"
 url                      : "https://manholefilm.com"
 baseurl                  : ""
 repository               : "JayeshPillai/manhole-website/"
