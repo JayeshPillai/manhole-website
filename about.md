@@ -15,7 +15,10 @@ tags: VR-Film Storytelling
 
 A manual scavenger’s experience inside a sewage manhole surpasses our understanding and imaginations. Our Humanity would tell us that it would be inhuman and unjust for any human to live through such a reality. Yet it is this very humanity that demands an urgency to make the experience of a manual scavenger an inclusive and integrated part of mainstream consciousness. Through a VR film, Manhole attempts to bridge this social gap by touching the experience of those who have, for generations, remained untouched. 
 
-<br>
+
+<figure class="align-center" style="width:100%; max-width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/about_vr.png" alt="">
+</figure> 
 
 ## **Why VR Film?**
 
