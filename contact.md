@@ -19,7 +19,7 @@ We are actively looking forward to potential collaborations with VR, animation a
 
 
 **Current Openings:**<br>
-• Unity artist/developer familiar with Character animation workflow<br>
+• Experienced Character Animators for games (Asset creation experience is a plus)<br>
 • Internship for digital illustrator and motion-graphics artist
 <br>
 <br>
