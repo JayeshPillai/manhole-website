@@ -659,11 +659,21 @@ Home AR 360 images
     
     height: 500px;
     margin-top: 80px;
-    width: 100%
-    //background: #d2d5d6;
-    
+    width: 100%;   
 }
 
+/*
+Home Header image
+========================================================================== */
+
+.header_home{
+    margin-top: 80px;
+    width: 100%;
+
+    img{
+        width: 100%;
+    }
+}
 
 
  #map {

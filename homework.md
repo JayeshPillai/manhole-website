@@ -1,7 +1,10 @@
 ---
-layout: singlehome
+layout: singlehomework
 title: 
 author_profile: false
+
+header:
+  teaser: /assets/img/process/Home_Looknfeel2.gif
 
 gallery1:
   - url: https://www.thematchbox.co/
@@ -20,14 +23,9 @@ gallery1:
 ---
 
 <br>
-
 <span style="font-size: larger; font-style: italic;">
 "<b>Manhole</b> is India’s first Real-Time Animated VR Film, conveying the reality of manual scavenging."
 </span>
-
-<figure class="align-centre" style="width:100%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/process/Home_Looknfeel2.gif" alt="">
-</figure> 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
@@ -53,12 +51,26 @@ Because it is impossible to get to know the truth in the field and we chose VR.
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
 
+<div class = "vr_home">
+<a-scene loading-screen="dotsColor: black; backgroundColor: #665252;"  embedded style="margin:0px; padding:0px;" vr-mode-ui="enabled: false">
+  <a-assets>
+    <img id="360image" src="{{ site.baseurl }}/assets/img/360/360_manhole.jpg">
+  </a-assets>
+  <!-- 360-degree image. -->
+  <a-entity rotation="0 -90 0">
+  <a-sky id="image-360" radius="100" src="#360image"></a-sky>
+ </a-entity>
+
+</a-scene>   
+    
+</div>
+<figcaption>Above is a 360° image</figcaption> 
+
+<br>
+
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
-<figure class="align-centre" style="width:100%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/process/Home_Looknfeel1.gif" alt="">
-</figure> 
-
+<br>
 <a name="aboutinfo"></a>
 # THE CONTEXT
 
