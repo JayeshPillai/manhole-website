@@ -7,8 +7,10 @@ header:
 tags: VR-Film Storytelling
 ---
 
-<figure class="align-center" style="width: 100%; max-width:400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_hindi.png" alt="">
+>"The caste system in the Indian society is related to the idea of lineage or kinship group. A person's caste is inherited by birth and can never be changed in one's life."
+
+<figure class="align-center" style="width: 100%; max-width:800px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/bg_caste.png" alt="">
 </figure> 
 
 

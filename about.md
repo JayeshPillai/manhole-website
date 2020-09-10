@@ -26,19 +26,13 @@ Experiencing the film in 360° virtual reality (VR) is to immerse oneself into t
 
 This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows the viewer to move around and explore the environment while experiencing the story. The film also explores the current state-of-the-art in audio experience. Our story environment would have 3D spatial audio. It provides an atmosphere where the sound responds to the direction of the viewer's point-of-view. 
 
-
-<br>
-
-## **Manhole - The Project at Large:**
-‘Manhole’ is a three-part incremental project involving i) VR ii) Graphic Novel and iii) Animated Feature Film. VR film is the short form reality segment of the Project. 
-
-
-
-<figure class="align-center" style="width:100%; max-width:400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
+<figure class="align-center" style="width:100%; max-width:300px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_hindi.png" alt="">
 </figure> 
 
 
+## **Manhole - The Project at Large:**
+‘Manhole’ is a three-part incremental project involving i) VR ii) Graphic Novel and iii) Animated Feature Film. VR film is the short form reality segment of the Project. 
 
 > **Disclaimer:** This is a work of fiction. Names,
 characters, businesses, places, events, locales, and
