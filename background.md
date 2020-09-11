@@ -1,5 +1,5 @@
 ---
-title:  "Backgound"
+title:  "Background"
 excerpt: Background - Manhole VR
 layout: regularpage
 header:
