@@ -669,9 +669,11 @@ Home Header image
 .header_home{
     margin-top: 80px;
     width: 100%;
+    padding: 0px;
 
-    img{
+    video{
         width: 100%;
+    background-color: #222222;
     }
 }
 
@@ -766,6 +768,11 @@ Media Query
 
 .vr_single{
     height: 300px;
+}
+
+.header_home{
+    margin-top: 60px;
+    width: 100%;
 }
 
 .flex_row {
