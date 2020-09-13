@@ -5,10 +5,14 @@ layout: default
 
 <div class = "vr_home">
 
-
-<a-scene loading-screen="dotsColor: black; backgroundColor: #665252;"  embedded style="margin:0px; padding:0px;" vr-mode-ui="enabled: false">
+<a-scene loading-screen="dotsColor: black; backgroundColor: #665252;"  embedded style="margin:0px; padding:0px;" vr-mode-ui="enterVRButton: #myEnterVRButton; enterARButton: #myEnterARButton">
+  <a id="myEnterVRButton" href="#">
+    <div id="VRButton">
+      <i class="fas fa-expand"></i>
+    </div>
+  </a>
+  <a id="myEnterARButton" href="#"></a>
   <a-assets>
-
     <!-- Images. -->
     <img id="city" src="{{ site.baseurl }}/assets/img/360/360_manhole.jpg">
     
@@ -20,7 +24,10 @@ layout: default
  </a-entity>
 
 </a-scene>
-    
+
+<div class = "vr_overlay">  
+<img src="/assets/img/360/360_icon.png">
+</div>
     
 </div>
 
