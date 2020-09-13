@@ -801,8 +801,7 @@ Media Query
 
 .vr_home{
     margin-top: 58px;
-    height: 300px;
-    
+    height: 300px;  
 }
 
 .vr_overlay{
@@ -827,9 +826,14 @@ Media Query
 }
 
 .header_home{
-    margin-top: 60px;
-  video{
-    }
+    height: 240px;
+    margin-top: 58px;
+    overflow: hidden;
+}
+
+#myVideo{
+  -ms-transform: scale(2.5); /* IE 9 */
+  transform: scale(2.5); /* Standard syntax */
 }
 
 .flex_row {
