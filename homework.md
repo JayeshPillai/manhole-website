@@ -52,19 +52,29 @@ Because it is impossible to get to know the truth in the field and we chose VR.
 </div> 
 
 <div class = "vr_home">
-<a-scene loading-screen="dotsColor: black; backgroundColor: #665252;"  embedded style="margin:0px; padding:0px;" vr-mode-ui="enabled: false">
-  <a-assets>
-    <img id="360image" src="{{ site.baseurl }}/assets/img/360/360_manhole.jpg">
-  </a-assets>
-  <!-- 360-degree image. -->
-  <a-entity rotation="0 -90 0">
-  <a-sky id="image-360" radius="100" src="#360image"></a-sky>
- </a-entity>
 
-</a-scene>   
+  <a-scene loading-screen="dotsColor: black; backgroundColor: #665252;"  embedded style="margin:0px; padding:0px;" vr-mode-ui="enterVRButton: #myEnterVRButton; enterARButton: #myEnterARButton">
+    <a id="myEnterVRButton" href="#">
+      <div id="VRButton">
+        <i class="fas fa-expand"></i>
+      </div>
+    </a>
+    <a id="myEnterARButton" href="#"></a>
+    <a-assets>
+      <!-- Images. -->
+      <img id="city" src="{{ site.baseurl }}/assets/img/360/360_manhole.jpg">
+    </a-assets>
+    <a-entity rotation="0 -90 0">
+    <a-sky id="image-360" radius="100" src="#city"></a-sky>
+   </a-entity>
+
+  </a-scene>
+
+  <div class = "vr_overlay">  
+  <img src="/assets/img/360/360_icon.png">
+  </div>
     
 </div>
-<figcaption>Above is a 360° image</figcaption> 
 
 <br>
 
