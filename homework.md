@@ -57,6 +57,7 @@ Because it is impossible to get to know the truth in the field and we chose VR.
     <a id="myEnterVRButton" href="#">
       <div id="VRButton">
         <i class="fas fa-expand"></i>
+        <i class="fas fa-vr-cardboard"></i>
       </div>
     </a>
     <a id="myEnterARButton" href="#"></a>

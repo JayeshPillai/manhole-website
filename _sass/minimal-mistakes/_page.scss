@@ -698,8 +698,17 @@ Home AR 360 images
 
 #VRButton:hover
 {
-  color: rgba(255,250,250,0.9);
+  color: rgba(255,250,250,0.8);
 }
+
+.fa-expand {
+display: inline;
+}
+
+.fa-vr-cardboard {
+display: none;
+}
+
 
 /*
 Home Header image
@@ -816,9 +825,17 @@ Media Query
 
 #VRButton{
   padding: 0px 7px 0px 0px;
-  height: 30px;
-  width: 30px;
+  height: 28px;
+  width: 38px;
   font-size:20px;
+}
+
+.fa-expand {
+display: none;
+}
+
+.fa-vr-cardboard {
+display: inline;
 }
 
 .vr_single{
