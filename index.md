@@ -24,6 +24,7 @@ gallery1:
 <span style="font-size: larger; font-style: italic;">
 "<b>Manhole</b> is a Real-Time Animated VR Film, conveying the reality of manual scavenging in India." 
 </span>
+<br>
 Through this experience we hope to shed further light on this inhuman practice that still prevails.
 <br>
 
