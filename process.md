@@ -9,7 +9,7 @@ tags: VR-Film Storytelling
 ---
 
 <figure class="align-center" style="width: 100%;">
-<video autoplay loop muted playsinline>
+<video style="width: 100%;" autoplay loop muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/img/process/process_header.mp4" type="video/mp4">
 </video>
 </figure> 
