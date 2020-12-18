@@ -232,6 +232,13 @@ figure {
     transition: $global-transition;
   }
 
+  video {
+    width: 100%;
+    border-radius: $border-radius;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+  }
+
   > a {
     display: block;
   }
