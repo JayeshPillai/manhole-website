@@ -3,7 +3,7 @@ title:  "The Process"
 excerpt: Process - Manhole VR
 layout: regularpage
 header:
-    teaser: /assets/img/placeholder_png.png
+    teaser: /assets/img/process/Manhole_Workflow2020.jpg
 tags: VR-Film Storytelling
 
 ---
