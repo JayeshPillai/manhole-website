@@ -4,7 +4,7 @@ excerpt: About - Manhole VR
 layout: regularpage
 header:
     teaser: /assets/img/placeholder_png.png
-tags: VR-Film Storytelling
+tags: VR-Film Storytelling ManholeVR
 ---
 
 <figure class="align-center" style="width: 100%; max-width:400px;">

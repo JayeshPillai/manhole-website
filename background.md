@@ -4,7 +4,7 @@ excerpt: Background - Manhole VR
 layout: regularpage
 header:
     teaser: /assets/img/placeholder_png.png
-tags: VR-Film Storytelling
+tags: VR-Film Storytelling ManholeVR
 ---
 
 >"The caste system in the Indian society is related to the idea of lineage or kinship group. A person's caste is inherited by birth and can never be changed in one's life."

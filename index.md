@@ -43,10 +43,10 @@ Through this project we wish to shed further light on this inhuman practice that
 </figure> 
 
 **What does it take to get inside a sewer manhole without protective gear?**<br>
-How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially comes the journey of Amitabh inside a ‘Manhole’. 
+How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially - comes the journey of Amitabh inside a ‘Manhole’. 
 
-**Why is it important or relevant to portray it in Real-Time VR?**<br>
-Because it is impossible to get to know the truth in the field and we chose VR.  
+**Why is it important or relevant to portray it in real-time VR?**<br>
+While it is impossible to get to know the truth in the field, VR allows us to be a part of such experiences.
 
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     

@@ -6,6 +6,8 @@ main:
      url: /about
    - title: "BACKGROUND"
      url: /background
+   - title: "PROCESS"
+     url: /process
    - title: "TEAM"
      url: /team
    - title: "CONTACT"
