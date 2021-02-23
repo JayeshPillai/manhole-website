@@ -26,6 +26,6 @@ links:
       url: "https://in.linkedin.com/in/amarnathmurugan"
 ---
 
-Text Here
+Amarnath Murugan
 
 

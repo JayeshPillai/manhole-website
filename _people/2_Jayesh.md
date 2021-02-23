@@ -18,14 +18,14 @@ links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.idc.iitb.ac.in/people/faculty/pillai-jayesh"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      #url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.jayeshpillai.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jayesh-s-pillai-aa83105b/"
 ---
 
-Text Here
+Jayesh Pillai
 
 

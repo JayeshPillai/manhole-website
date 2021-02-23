@@ -3,16 +3,24 @@ layout: singlehome
 title: 
 author_profile: false
 
-gallery1:
-  - url: https://www.thematchbox.co/
+flexgallery1:
+  - aspect: "3.25"
+    url: https://www.thematchbox.co/
     image_path: /assets/img/mvrimages/partners_logo_tmb.png
     alt: "Matchbox.co"
     title: "Matchbox.co"
-  - url: http://www.idc.iitb.ac.in/
+  - aspect: "3.25"
+    url: http://www.idc.iitb.ac.in/
     image_path: /assets/img/mvrimages/partners_logo_idc.png
-    alt: "IDC-IITB"
-    title: "IDC-IITB"
-  - url: /team
+    alt: "IDC School of Design, IIT Bombay"
+    title: "IDC School of Design, IIT Bombay"
+  - aspect: "3.25"
+    url: https://www.deckor.co/
+    image_path: /assets/img/mvrimages/partners_logo_deckor.png
+    alt: "Deckor.co"
+    title: "Deckor.co"   
+  - aspect: "3.25"
+    url: /team
     image_path: /assets/img/mvrimages/partners_logo_who.png
     alt: "Collaborate with us?"
     title: "Collaborate with us?"
@@ -89,7 +97,7 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
 
 This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
 
-{% include gallery id="gallery1" %}
+{% include flexgallery id="flexgallery1" caption="" %}
 
 <div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/team">Meet the Team ▷</a>       

@@ -26,6 +26,6 @@ links:
       url: "https://www.linkedin.com/in/amal-dev-66ab24115/"
 ---
 
-Text Here
+Amal Dev
 
 
