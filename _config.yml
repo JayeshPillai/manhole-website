@@ -21,7 +21,7 @@ title_separator          : "•"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Manhole - VR Film"
 description              : "A VR Film on Manual Scavenging"
-url                      : "https://manholefilm.com"
+url                      : "https://manholefilm.in"
 baseurl                  : ""
 repository               : "JayeshPillai/manhole-website/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
