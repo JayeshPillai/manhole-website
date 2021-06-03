@@ -24,6 +24,7 @@ We are actively looking forward to potential collaborations with VR, animation a
 <br>
 <br>
 
+<!-- 
 # Support Manhole Project
 
 
@@ -43,3 +44,4 @@ For contributing please write to us and we shall share our account details. You 
  <a class = "home-button" href="mailto:hello@manholefilm.com?subject=I would like to contribute to ManholeVR Project">Contribute to Manhole VR Project ▷</a>   
 </div> 
 
+ -->
