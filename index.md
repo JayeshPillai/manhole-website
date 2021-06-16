@@ -5,10 +5,10 @@ author_profile: false
 
 flexgallery1:
   - aspect: "3.25"
-    url: https://www.thematchbox.co/
-    image_path: /assets/img/mvrimages/partners_logo_tmb.png
-    alt: "Matchbox.co"
-    title: "Matchbox.co"
+    url: https://imxd.in/
+    image_path: /assets/img/mvrimages/partners_logo_imxdlab.png
+    alt: "IMXD Lab"
+    title: "IMXD Lab"
   - aspect: "3.25"
     url: http://www.idc.iitb.ac.in/
     image_path: /assets/img/mvrimages/partners_logo_idc.png
