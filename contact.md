@@ -11,7 +11,7 @@ layout: contactsingle
 </figure> 
 
 
-Manhole VR Film : [hello@manholefilm.com](mailto:hello@manholefilm.com?subject=Hello! ManholeVR Team)
+Manhole VR Film : [hello@manholecollective.com](mailto:hello@manholefilm.com?subject=Hello! ManholeVR Team)
 
 
 **Collaborate with us:**<br>
