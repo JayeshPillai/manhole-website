@@ -34,8 +34,13 @@ flexgallery2:
 
 This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
 
-
 {% include flexgallery id="flexgallery2" caption="" %}
+
+## SUPPORTED BY
+
+<figure class="align-left" style="width:100%; max-width:400px; margin-top: 0px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
+</figure> 
 
 Manhole as a project invites collaborative contributions by all those who wish to participate in initiating social change on the issue of manual scavenging. [Reach out to us.](/contact)
 
