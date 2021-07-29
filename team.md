@@ -23,7 +23,7 @@ flexgallery2:
     title: "Deckor.co"    
   - aspect: "3.25"
     url: /contact
-    image_path: /assets/img/mvrimages/partners_logo_who.png
+    image_path: /assets/img/mvrimages/partners_logo_seekmy.png
     alt: "Collaborate with us?"
     title: "Collaborate with us?"
 
