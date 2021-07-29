@@ -101,7 +101,7 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 ## SUPPORTED BY
 
-<div style="width:100%; max-width:200px; margin-top: 0px">
+<div style="width:100%; max-width:160px; margin-top: 0px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
 </div> 
 
