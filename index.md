@@ -101,9 +101,9 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 ## SUPPORTED BY
 
-<figure class="align-left" style="width:100%; max-width:400px; margin-top: 0px">
+<div style="width:100%; max-width:200px; margin-top: 0px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
-</figure> 
+</div> 
 
 <div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/team">Meet the Team ▷</a>       
