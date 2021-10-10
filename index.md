@@ -63,6 +63,11 @@ While it is impossible to get to know the truth in the field, VR allows us to be
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
 
+## Manhole - Short Film
+Currently the first phase of the project is taking shape as a cinematic short film.
+
+{% include video id="kwUPcVi2s4M" provider="youtube" caption="Teaser of the short film" %}
+
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
 
@@ -99,7 +104,7 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 {% include flexgallery id="flexgallery1" caption="" %}
 
-## SUPPORTED BY
+## Supported by
 
 <div style="width:100%; max-width:160px; margin-top: 0px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
