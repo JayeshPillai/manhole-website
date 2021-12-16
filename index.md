@@ -34,7 +34,7 @@ flexgallery1:
 
 >“Compelled by the exigencies of poor economic life and caste identity, Amitabh, a young law graduate, becomes a manual scavenger. One day, to earn some extra money to support his family, he decides to get inside a large unsafe sewer to clear a blockage. He neither has protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out safely?”
 
-## Manhole - Short Film
+## Manhole - Short Film (Phase 1)
 Currently the first phase of the project is completed, which is a cinematic short film. 
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
@@ -47,18 +47,16 @@ Links: <br>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
-## Manhole - VR Film
+## Manhole - VR Film  (Phase 2)
 
-<figure class="align-left" style="width:100%; max-width:400px;">
+<figure class="align-left" style="width:100%; max-width:360px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
 </figure>
 
 **What does it take to get inside a sewer manhole without protective gear?**<br>
-How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially - comes the journey of Amitabh inside a ‘Manhole’. 
+How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially - comes the journey of Amitabh inside a ‘Manhole’. While it is impossible to get to know the truth in the field, VR allows us to be a part of such experiences.
 
-**Why is it important or relevant to portray it in real-time VR?**<br>
-While it is impossible to get to know the truth in the field, VR allows us to be a part of such experiences.
-
+**The team is now actively seeking funding for the VR Film phase of the project.**
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the VR film ▷</a>       
@@ -72,7 +70,7 @@ While it is impossible to get to know the truth in the field, VR allows us to be
 
 > "In 2013, the [Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act](http://legislative.gov.in/sites/default/files/A2013-25.pdf) criminalized the practice and employability of any form of manual cleaning, carrying, disposing or handling of human waste. Yet, about [62,904](https://www.thehindu.com/news/national/indias-manual-scavenging-problem/article30834545.ece){:target="_blank"} men and women are engaged in some form of manual scavenging."
 
-<figure class="align-right" style="width:100%; max-width:400px;">
+<figure class="align-right" style="width:100%; max-width:360px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter2.png" alt="">
 </figure> 
 

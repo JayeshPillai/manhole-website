@@ -16,11 +16,8 @@ Manhole VR Film : [hello@manholecollective.com](mailto:hello@manholefilm.com?sub
 
 **Collaborate with us:**<br>
 We are actively looking forward to potential collaborations with VR, animation and game design studios.
+**The team is now actively seeking funding for the VR Film phase of the project.**
 
-
-**Current Openings:**<br>
-• Experienced Character Animators for games (Asset creation experience is a plus)<br>
-• Internship for digital illustrator and motion-graphics artist
 <br>
 <br>
 
