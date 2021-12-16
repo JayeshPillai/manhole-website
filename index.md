@@ -40,17 +40,12 @@ Currently the first phase of this initiative is completed, which is a cinematic 
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
 
-• IMDb Page : [Manhole Short Film ▸](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
-
-<span class="imdbRatingPlugin" data-user="ur25692462" data-title="tt16421128" data-style="p1"><a href="https://www.imdb.com/title/tt16421128/?ref_=plg_rt_1"><img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Manhole
-(2021) on IMDb" />
-</a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+[<img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/imdb_icon.png" alt="">](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
 ## Manhole - VR Film\*
-
-<figure class="align-left" style="width:100%; max-width:360px;">
+<figure class="align-left" style="width:100%; max-width:320px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
 </figure>
 What does it take to get inside a manhole without protective gear? How would it feel to submerge oneself inside a sewer blocked with human excreta? To explore these questions experientially, witness the journey of Amitabh in 'Manhole VR'.
@@ -73,8 +68,7 @@ What does it take to get inside a manhole without protective gear? How would it 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter2.png" alt="">
 </figure>
 
-**What is Manual Scavenging?**<br>
-Manual scavenging is the occupation of sanitation work in India, involving manually cleaning and disposing of human excreta from public streets, insanitary dry latrines, septic tanks, gutters, sewers, or more often inside a street manhole.
+**Manual Scavenging?** is the occupation of sanitation work in India, involving manually cleaning and disposing of human excreta from public streets, insanitary dry latrines, septic tanks, gutters, sewers, or more often inside a street manhole.
 
 <small>_* Number of deaths due to manual scavenging in India in 2019 is [110](https://www.thehindu.com/news/national/110-deaths-by-cleaning-sewers-septic-tanks-in-2019/article30795201.ece){:target="_blank"}_</small>
 
