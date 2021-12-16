@@ -45,7 +45,7 @@ The film is currently in Production.
 <a name="aboutinfo"></a>
 # THE EXPERIENCE
 
->“Amitabh, a young law graduate, is compelled by the exigencies of poor economic life and marginalized caste-identity to enter the occupation of manual scavenging. Despite his experience solely with the smaller manholes, Amitabh, for some extra money, decides to get inside a large unsafe sewer.”
+>“Compelled by the exigencies of poor economic life and caste identity, Amitabh, a young law graduate, becomes a manual scavenger. One day, to earn some extra money to support his family, he decides to get inside a large unsafe sewer to clear a blockage. He neither has protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out safely?”
 
 
 <figure class="align-left" style="width:100%; max-width:400px;">
@@ -64,9 +64,13 @@ While it is impossible to get to know the truth in the field, VR allows us to be
 </div> 
 
 ## Manhole - Short Film
-Currently the first phase of the project is taking shape as a cinematic short film.
+Currently the first phase of the project is completed, which is a cinematic short film. 
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
+
+This short film was adjudged as [one of the runners up in the Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/). The production of the film was supported by Epic Games, and it has been rendered out of Unreal Engine.
+
+Here's [Manhole Short Film @ IMDb](https://www.imdb.com/title/tt16421128/)
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
