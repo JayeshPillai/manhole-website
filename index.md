@@ -43,6 +43,10 @@ This short film was adjudged as one of the runners up in the [Unreal Shorts Indi
 
 • IMDb Page : [Manhole Short Film ▸](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
 
+<span class="imdbRatingPlugin" data-user="ur25692462" data-title="tt16421128" data-style="p1"><a href="https://www.imdb.com/title/tt16421128/?ref_=plg_rt_1"><img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Manhole
+(2021) on IMDb" />
+</a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
 ## Manhole - VR Film\*
