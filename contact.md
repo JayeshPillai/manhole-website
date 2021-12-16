@@ -16,6 +16,7 @@ Manhole VR Film : [hello@manholecollective.com](mailto:hello@manholefilm.com?sub
 
 **Collaborate with us:**<br>
 We are actively looking forward to potential collaborations with VR, animation and game design studios.
+<br>
 **The team is now actively seeking funding for the VR Film phase of the project.**
 
 <br>
