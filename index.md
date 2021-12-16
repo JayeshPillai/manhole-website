@@ -45,14 +45,13 @@ Links: <br>
 • [Manhole Short Film's IMDb Page ▸](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
 • [Article in Indian Express ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
 
-<br>
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
-<br>
+
 ## Manhole - VR Film
 
 <figure class="align-left" style="width:100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
-</figure> 
+</figure>
 
 **What does it take to get inside a sewer manhole without protective gear?**<br>
 How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially - comes the journey of Amitabh inside a ‘Manhole’. 
@@ -68,7 +67,6 @@ While it is impossible to get to know the truth in the field, VR allows us to be
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
-
 <a name="aboutinfo"></a>
 # THE CONTEXT
 
@@ -114,8 +112,6 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
-
-
 <a name="contactinfo"></a>
 # REACH OUT
 
