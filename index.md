@@ -34,7 +34,7 @@ flexgallery1:
 
 >“Compelled by the exigencies of poor economic life and caste identity, Amitabh, a young law graduate, becomes a manual scavenger. One day, to earn some extra money to support his family, he decides to get inside a large unsafe sewer to clear a blockage. He neither has protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out safely?”
 
-## Manhole - Short Film (Phase 1)
+## Manhole - Short Film
 Currently the first phase of the project is completed, which is a cinematic short film. 
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
@@ -47,7 +47,8 @@ Links: <br>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
-## Manhole - VR Film  (Phase 2)
+## Manhole - VR Film\*
+The phase 2 of our project, is the upcoiming VR Film.
 
 <figure class="align-left" style="width:100%; max-width:360px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
@@ -56,7 +57,7 @@ Links: <br>
 **What does it take to get inside a sewer manhole without protective gear?**<br>
 How would it be to submerge oneself inside the sewer, blocked with human excreta? Or does it take the spirit of another world to get inside the sewer and clean the drains? To explore these questions experientially - comes the journey of Amitabh inside a ‘Manhole’. While it is impossible to get to know the truth in the field, VR allows us to be a part of such experiences.
 
-**The team is now actively seeking funding for the VR Film phase of the project.**
+**\*The team is now curruntry seeking funding for the VR Film phase of the project.**
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the VR film ▷</a>       
