@@ -11,12 +11,10 @@ tags: VR-Film Storytelling ManholeVR
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 
-> <large> “The collective’s objective was to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India.” </large>
-
-The project team started forming in January 2020, which further extended to be called the Manhole Collective. The collective’s objective was to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India, hoping to ignite conversations and spread awareness about this topic. The aim was to highlight the dangers they face while entering hazardous manholes without any safety equipment or protective gear, and the numerous deaths that occurred over the years.
+Manhole Collective’s objective is to create experiences and narratives that would communicate the difficulties and inhumanity being faced by manual scavengers in India, hoping to ignite conversations and spread awareness about this topic. The aim is to highlight the dangers they face while entering hazardous manholes without any safety equipment or protective gear, and the numerous deaths that occurred over the years.
 
 ## **Manhole - The Project at Large**
-‘Manhole’ is a three-part incremental project involving i) a VR Film ii) a Graphic Novel and iii) an Animated Feature Film. VR film is the short form reality segment of the Project.
+‘Manhole’ is a four-phase incremental project involving i) a short Film ii) a VR Film iii) a Graphic Novel and iv) an Animated Feature Film. VR film is the short form reality segment of the Project.
 
 <figure class="align-center" style="width:100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/about_vr.png" alt="">

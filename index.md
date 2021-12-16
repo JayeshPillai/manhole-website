@@ -45,9 +45,9 @@ Links: <br>
 • [Manhole Short Film's IMDb Page ▸](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
 • [Article in Indian Express ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
 
+<br>
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
-
 ## Manhole - VR Film
 
 <figure class="align-left" style="width:100%; max-width:400px;">
@@ -89,7 +89,7 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
 
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">       
- <a class = "home-button" href="{{ site.baseurl }}/background">More about the Project ▷</a>       
+ <a class = "home-button" href="{{ site.baseurl }}/about">More about the Project ▷</a>       
 </div> 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
