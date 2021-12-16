@@ -68,9 +68,11 @@ Currently the first phase of the project is completed, which is a cinematic shor
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
 
-This short film was adjudged as [one of the runners up in the Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/). The production of the film was supported by Epic Games, and it has been rendered out of Unreal Engine.
+This short film was adjudged as one of the runners up in the [Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}. The production of the film was supported by Epic Games, and it has been rendered out of Unreal Engine.
 
-Here's [Manhole Short Film @ IMDb](https://www.imdb.com/title/tt16421128/)
+Links:
+- Manhole Short Film [IMDb Page](https://www.imdb.com/title/tt16421128/){:target="_blank"}
+- Article about our project [in Indian Express](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
@@ -78,7 +80,7 @@ Here's [Manhole Short Film @ IMDb](https://www.imdb.com/title/tt16421128/)
 <a name="aboutinfo"></a>
 # THE CONTEXT
 
-> "In 2013, the [Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act](http://legislative.gov.in/sites/default/files/A2013-25.pdf) criminalized the practice and employability of any form of manual cleaning, carrying, disposing or handling of human waste. Yet, about [62,904](https://www.thehindu.com/news/national/indias-manual-scavenging-problem/article30834545.ece) men and women are engaged in some form of manual scavenging."
+> "In 2013, the [Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act](http://legislative.gov.in/sites/default/files/A2013-25.pdf) criminalized the practice and employability of any form of manual cleaning, carrying, disposing or handling of human waste. Yet, about [62,904](https://www.thehindu.com/news/national/indias-manual-scavenging-problem/article30834545.ece){:target="_blank"} men and women are engaged in some form of manual scavenging."
 
 <figure class="align-right" style="width:100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter2.png" alt="">
@@ -87,7 +89,7 @@ Here's [Manhole Short Film @ IMDb](https://www.imdb.com/title/tt16421128/)
 **What is Manual Scavenging?**<br>
 Manual scavenging is the occupation of sanitation work in India, involving manually cleaning and disposing of human excreta from public streets, insanitary dry latrines, septic tanks, gutters, sewers, or more often inside a street manhole.
 
-<small>_* Number of deaths due to manual scavenging in India in 2019 is [110](https://www.thehindu.com/news/national/110-deaths-by-cleaning-sewers-septic-tanks-in-2019/article30795201.ece)_</small>
+<small>_* Number of deaths due to manual scavenging in India in 2019 is [110](https://www.thehindu.com/news/national/110-deaths-by-cleaning-sewers-septic-tanks-in-2019/article30795201.ece){:target="_blank"}_</small>
 
 
 **Why is it still continued as a practice in society?**<br>
