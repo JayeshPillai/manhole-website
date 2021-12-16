@@ -11,10 +11,12 @@ tags: VR-Film Storytelling ManholeVR
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 
-> <large> “We hope to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India, hoping to ignite conversations and spread awareness about this topic” </large>
+> <large> “The collective’s objective was to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India.” </large>
 
-A manual scavenger’s experience inside a sewage manhole surpasses our understanding and imaginations. Our Humanity would tell us that it would be inhuman and unjust for any human to live through such a reality. Yet it is this very humanity that demands an urgency to make the experience of a manual scavenger an inclusive and integrated part of mainstream consciousness. Through a VR film, Manhole attempts to bridge this social gap by touching the experience of those who have, for generations, remained untouched. 
+The project team started forming in January 2020, which further extended to be called the Manhole Collective. The collective’s objective was to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India, hoping to ignite conversations and spread awareness about this topic. The aim was to highlight the dangers they face while entering hazardous manholes without any safety equipment or protective gear, and the numerous deaths that occurred over the years.
 
+## **Manhole - The Project at Large**
+‘Manhole’ is a three-part incremental project involving i) a VR Film ii) a Graphic Novel and iii) an Animated Feature Film. VR film is the short form reality segment of the Project.
 
 <figure class="align-center" style="width:100%; max-width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/about_vr.png" alt="">
@@ -29,10 +31,6 @@ This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows t
 <figure class="align-center" style="width:100%; max-width:300px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_hindi.png" alt="">
 </figure> 
-
-
-## **Manhole - The Project at Large**
-‘Manhole’ is a three-part incremental project involving i) VR ii) Graphic Novel and iii) Animated Feature Film. VR film is the short form reality segment of the Project. 
 
 > **Disclaimer:** This is a work of fiction. Names,
 characters, businesses, places, events, locales, and

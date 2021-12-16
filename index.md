@@ -29,19 +29,6 @@ flexgallery1:
 
 <br>
 
-<span style="font-size: larger; font-style: italic;">
-<b>Manhole</b> is a real-time animated VR Film, conveying the reality of manual scavenging in India. 
-</span>
-<br> <br>
-Through this project we wish to shed further light on this inhuman practice that still prevails.
-<br>
-The film is currently in Production.
-<br>
-
-<hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
-<br>
-
-
 <a name="aboutinfo"></a>
 # THE EXPERIENCE
 
@@ -57,6 +44,9 @@ This short film was adjudged as one of the runners up in the [Unreal Shorts Indi
 Links: <br>
 • [Manhole Short Film's IMDb Page ▸](https://www.imdb.com/title/tt16421128/){:target="_blank"} <br>
 • [Article in Indian Express ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
+
+<hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
+<br>
 
 ## Manhole - VR Film
 
@@ -99,7 +89,7 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
 
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">       
- <a class = "home-button" href="{{ site.baseurl }}/background">Manual Scavenging ▷</a>       
+ <a class = "home-button" href="{{ site.baseurl }}/background">More about the Project ▷</a>       
 </div> 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
