@@ -96,10 +96,14 @@ Untouchability crept its way into Indian society, marginalizing lower caste-iden
     <span style="text-align:center;"><figcaption>A screenshot from 'Manhole' short film.</figcaption></span>
 </figure> 
 
-• Indian Express \| [With the Amitabh of manual scavenging, Manhole VR gives immersive view of job no one wants to do ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}<br>
-• TechnoSports \| [Unreal Engine ‘Shorts India Program’ celebrates the creativity of Indian storytellers, concludes its first-ever Shorts challenge in India ▸](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}<br>
-• PC Quest \| [Unreal Engine concludes its first-ever Shorts challenge in India – Shorts India Program ▸](https://www.pcquest.com/unreal-engine-concludes-first-ever-shorts-challenge-india-shorts-india-program/){:target="_blank"}<br>
-• Indian Education \| [Unreal Engine ‘Shorts India Program’ Celebrates The Creativity Of Indian Storytellers, Concludes Its First-Ever Shorts Challenge In India ▸](https://indiaeducationdiary.in/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}
+- Indian Express
+  - [With the Amitabh of manual scavenging, Manhole VR gives immersive view of job no one wants to do ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}<br>
+- TechnoSports
+  - [Unreal Engine ‘Shorts India Program’ celebrates the creativity of Indian storytellers, concludes its first-ever Shorts challenge in India ▸](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}<br>
+- PC Quest
+  - [Unreal Engine concludes its first-ever Shorts challenge in India – Shorts India Program ▸](https://www.pcquest.com/unreal-engine-concludes-first-ever-shorts-challenge-india-shorts-india-program/){:target="_blank"}<br>
+- Indian Education
+  - [Unreal Engine ‘Shorts India Program’ Celebrates The Creativity Of Indian Storytellers, Concludes Its First-Ever Shorts Challenge In India ▸](https://indiaeducationdiary.in/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
