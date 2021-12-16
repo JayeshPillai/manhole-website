@@ -71,8 +71,8 @@ Currently the first phase of the project is completed, which is a cinematic shor
 This short film was adjudged as one of the runners up in the [Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}. The production of the film was supported by Epic Games, and it has been rendered out of Unreal Engine.
 
 Links:
-- Manhole Short Film [IMDb Page](https://www.imdb.com/title/tt16421128/){:target="_blank"}
-- Article about our project [in Indian Express](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
+• Manhole Short Film [IMDb Page](https://www.imdb.com/title/tt16421128/){:target="_blank"}
+• Article about our project [in Indian Express](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
