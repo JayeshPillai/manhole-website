@@ -48,7 +48,7 @@ Links: <br>
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
 ## Manhole - VR Film\*
-The phase 2 of our project, is the upcoiming VR Film.
+The phase 2 of our project is the upcoiming VR Film.
 
 <figure class="align-left" style="width:100%; max-width:360px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
