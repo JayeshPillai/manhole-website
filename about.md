@@ -11,7 +11,7 @@ tags: VR-Film Storytelling ManholeVR
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_title_animated.gif" alt="">
 </figure> 
 
-> <large> “Touching the experience of those who have, for generations, remained untouched.” </large>
+> <large> “We hope to create an experiential narrative that would communicate the difficulties and inhumanity being faced by manual scavengers in India, hoping to ignite conversations and spread awareness about this topic” </large>
 
 A manual scavenger’s experience inside a sewage manhole surpasses our understanding and imaginations. Our Humanity would tell us that it would be inhuman and unjust for any human to live through such a reality. Yet it is this very humanity that demands an urgency to make the experience of a manual scavenger an inclusive and integrated part of mainstream consciousness. Through a VR film, Manhole attempts to bridge this social gap by touching the experience of those who have, for generations, remained untouched. 
 
@@ -31,7 +31,7 @@ This VR experience will have real-time 6 degree-of-freedom (6DOF) which allows t
 </figure> 
 
 
-## **Manhole - The Project at Large:**
+## **Manhole - The Project at Large**
 ‘Manhole’ is a three-part incremental project involving i) VR ii) Graphic Novel and iii) Animated Feature Film. VR film is the short form reality segment of the Project. 
 
 > **Disclaimer:** This is a work of fiction. Names,
