@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "manholevr" # "air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Manhole VR"
+title                    : "Manhole Collective"
 title_separator          : "•"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Manhole - VR Film"
@@ -26,7 +26,7 @@ baseurl                  : ""
 repository               : "JayeshPillai/manhole-website/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://jayeshpillai.github.io/manhole-website/assets/img/manholevr_logo_white.png"
-masthead_title           : "Manhole VR"
+masthead_title           : "Manhole Collective"
 # breadcrumbs            : false # true, false (defaut)
 words_per_minute         : 200
 comments:
