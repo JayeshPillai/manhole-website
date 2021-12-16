@@ -35,8 +35,7 @@ flexgallery1:
 >“Compelled by the exigencies of poor economic life and caste identity, Amitabh, a young law graduate, becomes a manual scavenger. One day, to earn some extra money to support his family, he decides to get inside a large unsafe sewer to clear a blockage. He neither has protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out safely?”
 
 ## Manhole - Short Film 
-This short film was adjudged as one of the runners up in the [Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}. The production of the film was supported by Epic Games, and it has been rendered out of Unreal Engine.
-Currently the first phase of this initiative is completed, which is a cinematic short film.
+This short film was adjudged as one of the runners up in the [Unreal Shorts India Program 2021](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}. The production of the film was supported by Epic Games. With this project we have completed the first phase of our initiative.
 
 {% include video id="NYyHxQjr3Z8" provider="youtube" caption="Teaser of the short film" %}
 
@@ -68,13 +67,7 @@ What does it take to get inside a manhole without protective gear? How would it 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter2.png" alt="">
 </figure>
 
-**Manual Scavenging?** is the occupation of sanitation work in India, involving manually cleaning and disposing of human excreta from public streets, insanitary dry latrines, septic tanks, gutters, sewers, or more often inside a street manhole.
-
-<small>_* Number of deaths due to manual scavenging in India in 2019 is [110](https://www.thehindu.com/news/national/110-deaths-by-cleaning-sewers-septic-tanks-in-2019/article30795201.ece){:target="_blank"}_</small>
-
-
-**Why is it still continued as a practice in society?**<br>
-Untouchability crept its way into Indian society, marginalizing lower caste-identities and eventually creating a depressed class crushed under the weight of inhuman practices, thus forcing the only community into such act. 
+**Manual Scavenging** is the occupation of sanitation work in India, involving manually cleaning and disposing of human excreta from latrines, septic tanks, gutters, sewers or manholes. Manual Scavengers are mostly from marginalized caste, who enter hazardous manholes with little to no safety equipment or protective gear. As a result they often face injuries, and in worst cases, death. For instance, in 2019, the number of deaths due to manual scavenging in India is [110](https://www.thehindu.com/news/national/110-deaths-by-cleaning-sewers-septic-tanks-in-2019/article30795201.ece){:target="_blank"}.
 
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">       
