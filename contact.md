@@ -19,7 +19,7 @@ We are actively looking forward to potential collaborations with VR, animation a
 <br>
 
 
-**The team is now actively seeking funding for the VR Film phase of the project.**
+**The team is currently seeking funding for the VR Film phase of the project.**
 
 <br>
 <br>
