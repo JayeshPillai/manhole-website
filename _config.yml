@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "Manhole Collective"
 title_separator          : "•"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Manhole - VR Film"
+name                     : "Manhole Collective"
 description              : "A VR Film on Manual Scavenging"
 url                      : "https://manholecollective.com"
 baseurl                  : ""
