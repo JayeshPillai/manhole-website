@@ -89,7 +89,7 @@ What does it take to get inside a manhole without protective gear? How would it 
   - [Unreal Engine ‘Shorts India Program’ celebrates the creativity of Indian storytellers, concludes its first-ever Shorts challenge in India ▸](https://technosports.co.in/2021/12/08/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}<br>
 - PC Quest
   - [Unreal Engine concludes its first-ever Shorts challenge in India – Shorts India Program ▸](https://www.pcquest.com/unreal-engine-concludes-first-ever-shorts-challenge-india-shorts-india-program/){:target="_blank"}<br>
-- Indian Education
+- India Education Diary
   - [Unreal Engine ‘Shorts India Program’ Celebrates The Creativity Of Indian Storytellers, Concludes Its First-Ever Shorts Challenge In India ▸](https://indiaeducationdiary.in/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
