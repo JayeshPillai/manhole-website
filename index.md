@@ -106,6 +106,7 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 <div style="width:100%; max-width:200px; margin-top: 0px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
+    <small>The short film was supported by Epic.</small>
 </div> 
 
 <div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 80px;">     
