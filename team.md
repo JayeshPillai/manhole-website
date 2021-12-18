@@ -38,9 +38,10 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 ## **Supported by**
 <div style="width:100%; max-width:200px; margin-top: 0px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
-</div>
-<small><i>The short film was supported by Epic.</i></small><br>
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt=""></a>
+</div> 
+<br>
+<small style="color:grey"><i>The short film was supported by Unreal Engine.</i></small><br>
 
 Manhole Collective invites collaborations and contributions by all who wish to participate in initiating social change on the issues connected to manual scavenging. [Reach out to us.](/contact)
 

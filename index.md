@@ -103,11 +103,11 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 {% include flexgallery id="flexgallery1" caption="" %}
 
 ## Supported by
-
 <div style="width:100%; max-width:200px; margin-top: 0px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt="">
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt=""></a>
 </div> 
-<small><i>The short film was supported by Epic.</i></small><br>
+<br>
+<small style="color:grey"><i>The short film was supported by Unreal Engine.</i></small><br>
 
 <div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/team">Meet the Team ▷</a>       
