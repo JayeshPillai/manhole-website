@@ -16,9 +16,8 @@ The collective’s objective is to create experiences and narratives that would 
 
 <br>
 ## **Manhole - The Project at Large**
-<figure class="align-center" style="width: 100%; max-width:600px;">
+<figure class="align-left" style="width: 100%; max-width:600px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/manhole_phases.png" alt="">
-    <span style="text-align:center;"><figcaption>A screenshot from 'Manhole' short film.</figcaption></span>
 </figure> 
 ‘Manhole’ is a four-phase incremental project involving i) a short Film ii) a VR Film iii) a Graphic Novel and iv) an Animated Feature Film. VR film is the short form reality segment of the Project.
 <figure class="align-center" style="width: 100%;">
