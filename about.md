@@ -24,7 +24,6 @@ The collective’s objective is to create experiences and narratives that would 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/Manhole_SF1.jpg" alt="">
     <span style="text-align:center;"><figcaption>A screenshot from 'Manhole' short film.</figcaption></span>
 </figure> 
-<br>
 ## **Why VR Film?**
 Experiencing the film in 360° virtual reality (VR) is to immerse oneself into the spatio-temporal reality of the characters in the story. You would find yourself standing next to the characters and experiencing the story unfold around you. This allows you to experience the world of Amitabh, Bunty and Billu as if you are one of the characters in the story, fully present in the story-environment. By facilitating a VR Film experience of a manual scavenger, ‘Manhole’ wishes to initiate a reconciliatory process in Indian society where compassion and empathy for the ones on the margins become a driver of social change.
 <figure class="align-center" style="width:100%; max-width:400px;">
