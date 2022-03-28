@@ -83,6 +83,10 @@ What does it take to get inside a manhole without protective gear? How would it 
     <span style="text-align:center;"><figcaption>A screenshot from 'Manhole' short film.</figcaption></span>
 </figure> 
 
+- Annecy 2022
+  - [Manhole Short Film - Official Selection in competition at Annecy International Animation Film Festival 2022 ▸](https://www.annecy.org/the-festival/official-selection/film-index:film-20222210){:target="_blank"}<br>
+- Unreal Engine
+  - [Manhole Short Film makes it to the top 3 of the Unreal Shorts India Program ▸](https://www.unrealengine.com/en-US/blog/watch-the-top-projects-from-the-shorts-india-program){:target="_blank"}<br>
 - Indian Express
   - [With the Amitabh of manual scavenging, Manhole VR gives immersive view of job no one wants to do ▸](https://indianexpress.com/article/entertainment/manual-scavenging-manhole-vr-animated-film-virtual-reality-7539395/){:target="_blank"}<br>
 - TechnoSports
