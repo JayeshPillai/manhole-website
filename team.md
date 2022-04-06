@@ -17,6 +17,11 @@ flexgallery2:
     alt: "IDC School of Design, IIT Bombay"
     title: "IDC School of Design, IIT Bombay"
   - aspect: "3.25"
+    url: https://opod.in/
+    image_path: /assets/img/mvrimages/partners_logo_opod.png
+    alt: "Opod Films & Media"
+    title: "Opod Films & Media"
+  - aspect: "3.25"
     url: https://www.deckor.co/
     image_path: /assets/img/mvrimages/partners_logo_deckor.png
     alt: "Deckor.co"
@@ -24,8 +29,9 @@ flexgallery2:
   - aspect: "3.25"
     url: /contact
     image_path: /assets/img/mvrimages/partners_logo_seekmy.png
-    alt: "Collaborate with us?"
-    title: "Collaborate with us?"
+    alt: "Seekmy Technology"
+    title: "Seekmy Technology"
+
 
 ---
 
