@@ -88,8 +88,13 @@ What does it take to get inside a manhole without protective gear? How would it 
     <span style="text-align:center;"><figcaption>A screenshot from 'Manhole' short film.</figcaption></span>
 </figure> 
 
+- Animación para adultos
+  - [Manhole Short Film - A Review by Ray Laguna from Animación para adultos ▸](https://animacionparaadultos.es/2022-manhole/){:target="_blank"}<br>
 - Annecy 2022
   - [Manhole Short Film - Official Selection in competition at Annecy International Animation Film Festival 2022 ▸](https://www.annecy.org/the-festival/official-selection/film-index:film-20222210){:target="_blank"}<br>
+- IIT Bombay
+  - Congrats to the team for making it to the top 3 in Unreal Engine’s Shorts India Program 2021.
+  - [LinkedIn ▸](https://www.linkedin.com/feed/update/urn:li:activity:6877480806835605504){:target="_blank"} | [Facebook ▸](https://www.facebook.com/iitbombay/photos/a.724347560923380/4970886549602772/){:target="_blank"} | [Twitter ▸](https://twitter.com/iitbombay/status/1471716585781952515?s=20){:target="_blank"}<br>
 - Unreal Engine
   - [Manhole Short Film makes it to the top 3 of the Unreal Shorts India Program ▸](https://www.unrealengine.com/en-US/blog/watch-the-top-projects-from-the-shorts-india-program){:target="_blank"}<br>
 - Indian Express
@@ -100,6 +105,9 @@ What does it take to get inside a manhole without protective gear? How would it 
   - [Unreal Engine concludes its first-ever Shorts challenge in India – Shorts India Program ▸](https://www.pcquest.com/unreal-engine-concludes-first-ever-shorts-challenge-india-shorts-india-program/){:target="_blank"}<br>
 - India Education Diary
   - [Unreal Engine ‘Shorts India Program’ Celebrates The Creativity Of Indian Storytellers, Concludes Its First-Ever Shorts Challenge In India ▸](https://indiaeducationdiary.in/unreal-engine-shorts-india-program-celebrates-the-creativity-of-indian-storytellers-concludes-its-first-ever-shorts-challenge-in-india/){:target="_blank"}
+
+  {% include video id="uziwH7sdX4I" provider="youtube" caption="Teaser of the short film" %}
+  Directors' Interview - Annecy Film Festival 2022
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
