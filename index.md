@@ -94,7 +94,7 @@ What does it take to get inside a manhole without protective gear? How would it 
   - [Manhole Short Film - Official Selection in competition at Annecy International Animation Film Festival 2022 ▸](https://www.annecy.org/the-festival/official-selection/film-index:film-20222210){:target="_blank"}<br>
 - IIT Bombay (2021)
   - Congrats to the team for making it to the top 3 in Unreal Engine’s Shorts India Program 2021.
-  - [LinkedIn ▸](https://www.linkedin.com/feed/update/urn:li:activity:6877480806835605504){:target="_blank"} | [Facebook ▸](https://www.facebook.com/iitbombay/photos/a.724347560923380/4970886549602772/){:target="_blank"} | [Twitter ▸](https://twitter.com/iitbombay/status/1471716585781952515?s=20){:target="_blank"}<br>
+  - [LinkedIn ▸](https://www.linkedin.com/feed/update/urn:li:activity:6877480806835605504){:target="_blank"} / [Facebook ▸](https://www.facebook.com/iitbombay/photos/a.724347560923380/4970886549602772/){:target="_blank"} / [Twitter ▸](https://twitter.com/iitbombay/status/1471716585781952515?s=20){:target="_blank"}<br>
 - Unreal Engine (2021)
   - [Manhole Short Film makes it to the top 3 of the Unreal Shorts India Program ▸](https://www.unrealengine.com/en-US/blog/watch-the-top-projects-from-the-shorts-india-program){:target="_blank"}<br>
 - Indian Express (2021)
