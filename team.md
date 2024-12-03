@@ -49,6 +49,5 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 
 Manhole Collective invites collaborations and contributions by all who wish to participate in initiating social change on the issues connected to manual scavenging. [Reach out to us.](/contact)
 
-</div>
 <br>
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
