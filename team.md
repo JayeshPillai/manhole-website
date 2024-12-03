@@ -34,7 +34,18 @@ flexgallery2:
 
 
 ---
-
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#VR Team" role="tab" aria-controls="VR Team" aria-selected="true">VR Team</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#Animation Film" role="tab" aria-controls="Animation Film" aria-selected="false">Animation Film</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="VR Team" role="tabpanel" aria-labelledby="VR TEam-tab">...</div>
+  <div class="tab-pane fade" id="Animation Film" role="tabpanel" aria-labelledby="Animation Film-tab">...</div>
+</div>
 
 # **Collaborators**
 
