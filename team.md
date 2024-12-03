@@ -45,6 +45,7 @@ flexgallery3:
 </div>
 
 <div id="content-vr-team" class="tab-content active">
+  
   # **Collaborators**
 
   This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
@@ -64,6 +65,7 @@ flexgallery3:
 </div>
 
 <div id="content-animation-film" class="tab-content">
+  
   # **Animation Film**
 
   The animation film explores a deeply engaging narrative that highlights critical social issues. Stay tuned for more updates about our animation efforts.
@@ -72,7 +74,6 @@ flexgallery3:
 </div>
 
 <style>
-/* Add the same CSS from earlier */
 .tab-buttons {
   display: flex;
   gap: 10px;
