@@ -34,17 +34,29 @@ flexgallery2:
 
 
 ---
-# **Team**
-
-**Tabs**
-
 <div class="tabs">
   <a class="tab" href="#vr-team">VR Team</a>
   <a class="tab" href="#animation-film">Animation Film</a>
 </div>
 
 <div id="vr-team" class="tab-content">
-  <p>Content about VR Team goes here...</p>
+  <p>
+    
+# **Collaborators**
+
+This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
+
+{% include flexgallery id="flexgallery2" caption="" %}
+
+## **Supported by**
+<div style="width:100%; max-width:200px; margin-top: 0px">
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/unreal.png" alt=""></a>
+</div>  
+<br>
+<small style="color:grey"><i>The short film was supported by Epic Games.</i></small><br>
+
+Manhole Collective invites collaborations and contributions by all who wish to participate in initiating social change on the issues connected to manual scavenging. [Reach out to us.](/contact)
+  </p>
 </div>
 
 <div id="animation-film" class="tab-content">
