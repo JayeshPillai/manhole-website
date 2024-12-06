@@ -81,10 +81,6 @@ on the issues connected to manual scavenging.
 
 </div>
 
-
-  <br>
-
-
 <div id="content-animation-film" class="tab-content">
   <h3>Collaborators</h3>
   <p>
