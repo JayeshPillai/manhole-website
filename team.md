@@ -108,10 +108,6 @@ on the issues connected to manual scavenging.
 </div>
 
 <style>
-body {
-  font-size: 14px;
-  line-height: 1.5;
-}
 
 .tab-buttons {
   display: flex;
