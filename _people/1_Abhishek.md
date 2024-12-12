@@ -7,7 +7,7 @@ header:
     teaser: /assets/img/people/mvr_team_abhishek.png
 permalink: /people/abhishek
 type: people
-fullpage: "no"
+fullpage: "yes"
 modal: "yes"
 modaltext: "Abhishek is a national award winning film-maker, animator, illustrator & screenplay writer. He has over 8+ years of experience in creating 2D animated content, and independent animation films for clients from different niches."
 modalname: "abhishek"
