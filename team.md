@@ -2,7 +2,7 @@
 title: Team
 permalink: /team
 layout: collection
-collection: people
+collection: peoples
 entries_layout: grid
 
 flexgallery3:
@@ -82,6 +82,7 @@ on the issues connected to manual scavenging.
 </div>
 
 <div id="content-animation-film" class="tab-content">
+
   <h3>Collaborators</h3>
   <p>
     This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
@@ -175,11 +176,10 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // Ensure links inside tab content are not blocked
   const links = document.querySelectorAll('.tab-content a');
   links.forEach(link => {
     link.addEventListener('click', function (event) {
-      event.stopPropagation(); // Allow the link to work normally
+      event.stopPropagation();
     });
   });
 });
