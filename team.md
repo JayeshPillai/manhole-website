@@ -96,10 +96,10 @@ on the issues connected to manual scavenging.
 <div id="main" role="main" style="margin-top: 0px; padding-bottom: 0px; padding-right: 60px;padding-left: 0; display: inline-block; vertical-align : top;">
   <h1 id="page-title" class="page__title" style="margin-top: 20px;">Cast (Voice & Mocap)</h1>
   <p>
-    <a href="...LINK...PLZ..." target="_blank"><b>Adarsh Kumar</b></a> :
+    <a href="https://www.linkedin.com/in/adarsh-kumar-85a91a272/" target="_blank"><b>Adarsh Kumar</b></a> :
     Amitabh Ruth<br>
 
-    <a href="...LINK...PLZ..." target="_blank"><b>Aniruddha Deodhar</b></a> : Bunty Ram<br>
+    <a href="https://www.linkedin.com/in/aniruddha-deodhar-040534223?" target="_blank"><b>Aniruddha Deodhar</b></a> : Bunty Ram<br>
 
     <a href="http://linkedin.com/in/gvsree" target="_blank"><b>G V Sreekumar</b></a> :
     Angry Uncle<br>
@@ -112,7 +112,7 @@ on the issues connected to manual scavenging.
     <a href="https://www.linkedin.com/in/artarivu/" target="_blank"><b>Arivukkarasu Periyasamy</b></a> :
      Character Animation<br>
 
-    <a href="...link...PLEASE" target="_blank"><b>Uttham Prakash</b></a> : Unreal Technical Artist<br>
+    <a href="https://www.linkedin.com/in/uttham-prakash-926024286/" target="_blank"><b>Uttham Prakash</b></a> : Unreal Technical Artist<br>
 
     <a href="https://www.linkedin.com/in/muskan-ahuja-918aab222/" target="_blank"><b>Muskan Ahuja</b></a> :
     Additional 3D Modeling & Texturing<br>
