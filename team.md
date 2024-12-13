@@ -50,8 +50,6 @@ flexgallery2:
     title: "Deckor.co"
 
 
-collection: people
-
 ---
 
 <div class="tab-buttons">
