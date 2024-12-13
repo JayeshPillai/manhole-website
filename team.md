@@ -1,8 +1,9 @@
 ---
 title: Team
 permalink: /team
-layout: archive 
+layout: archive
 entries_layout: grid
+
 
 flexgallery3:
   - aspect: "3.25"
@@ -49,6 +50,7 @@ flexgallery2:
     title: "Deckor.co"
 
 
+collection: people
 
 ---
 
@@ -145,14 +147,14 @@ on the issues connected to manual scavenging.
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 
-<div id="main" role="main" style="margin-top: 20px; padding-bottom: 0px; padding-right: 0;padding-left: 0;">
+<div id="main" role="main" 
+     style="margin-top: 20px; padding-bottom: 0px; padding-right: 0; padding-left: 0; position: relative; z-index: 9999; overflow: hidden;">
   <h1 id="page-title" class="page__title">Core Team</h1>
 
   <div class="entries-{{ page.entries_layout }}">
     {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order
     type=page.entries_layout %}
   </div>
-
 </div>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
@@ -380,3 +382,4 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
