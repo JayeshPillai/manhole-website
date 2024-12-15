@@ -3,6 +3,7 @@ layout: single
 title:  Amal Dev
 position: Art Director
 role: "team"
+division: "Animation"
 header:
     teaser: /assets/img/people/mvr_team_amal.png
 permalink: /people/amal

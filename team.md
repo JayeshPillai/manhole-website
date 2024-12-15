@@ -2,6 +2,7 @@
 title: Team
 permalink: /team
 layout: archive
+collection: people
 entries_layout: grid
 
 
@@ -84,13 +85,144 @@ on the issues connected to manual scavenging.
 <div id="main" role="main" style="margin-top: 20px; padding-bottom: 0px; padding-right: 0;padding-left: 0;">
   <h1 id="page-title" class="page__title">Core Team</h1>
 
-  <div class="entries-{{ page.entries_layout }}">
+  <div class="core-team-modal">
 
-    {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order
-    type=page.entries_layout %}
+  <div class="team-members-grid">
+    <!-- Team Member Photo 1 -->
+    <div class="team-member" data-bs-toggle="modal" data-bs-target="#jayeshModal">
+      <img src="/assets/img/people/manholevr_abhishek.png" alt="Jayesh Pillai">
+      <div class="profile-info">
+        <p><strong>Abhishek Verma</strong></p>
+        <p>Writer & Director</p>
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Team Member Photo 2 -->
+    <div class="team-member" data-bs-toggle="modal" data-bs-target="#placeholderModal">
+      <img src="/assets/img/people/manholevr_jayesh.png" alt="Jayesh Pillai">
+      <div class="profile-info">
+        <p><strong>Jayesh Pillai</strong></p>
+        <p>VR Director</p>
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Team Member Photo 3 -->
+    <div class="team-member" data-bs-toggle="modal" data-bs-target="#placeholderModal2">
+      <img src="/assets/img/people/manholevr_ananda.png" alt="Placeholder">
+      <div class="profile-info">
+        <p><strong>Ananda Bathena</strong></p>
+        <p>Sound Designer</p>
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Team Member Photo 4 -->
+    <div class="team-member" data-bs-toggle="modal" data-bs-target="#placeholderModal3">
+      <img src="/assets/img/people/manholevr_shiva.png" alt="Placeholder">
+      <div class="profile-info">
+        <p><strong>Banda Shiva Teja</strong></p>
+        <p>Technical Director</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Jayesh Pillai -->
+  <div class="modal fade" id="jayeshModal" tabindex="-1" aria-labelledby="jayeshModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="jayeshModalLabel">Jayesh Pillai</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <img src="/assets/img/people/manholevr_abhishek.png" alt="Jayesh Pillai" style="max-width: 120px; border-radius: 50%; display: block; margin: 0 auto 15px;">
+          <p>VR Director</p>
+          <p>Jayesh is a VR film-maker and academician who works in the domain of immersive media design (virtual, augmented, and extended reality). He is presently a faculty member at the IDC School of Design, IIT Bombay.</p>
+          <div class="links" style="text-align: center; margin-top: 10px;">
+            <a href="mailto:entermailhere" class="icon fas fa-fw fa-envelope-square"> Email</a>
+            <a href="http://www.idc.iitb.ac.in/people/faculty/pillai-jayesh" class="icon fas fa-fw fa-link"> Website</a>
+            <a href="https://www.jayeshpillai.com/" class="icon fas fa-fw fa-link"> Personal Website</a>
+            <a href="https://www.linkedin.com/in/jayesh-s-pillai-aa83105b/" class="icon fab fa-fw fa-linkedin"> LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Placeholder 2 -->
+  <div class="modal fade" id="placeholderModal" tabindex="-1" aria-labelledby="placeholderModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="placeholderModalLabel">Placeholder Name</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <img src="/assets/img/people/manholevr_jayesh.png" alt="Placeholder" style="max-width: 120px; border-radius: 50%; display: block; margin: 0 auto 15px;">
+          <p>Placeholder Title</p>
+          <p>Placeholder description for this team member. Details about their role and contributions go here.</p>
+          <div class="links" style="text-align: center; margin-top: 10px;">
+            <a href="#" class="icon fas fa-fw fa-envelope-square"> Email</a>
+            <a href="#" class="icon fas fa-fw fa-link"> Website</a>
+            <a href="#" class="icon fab fa-fw fa-linkedin"> LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Placeholder 3 -->
+  <div class="modal fade" id="placeholderModal2" tabindex="-1" aria-labelledby="placeholderModal2Label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="placeholderModal2Label">Placeholder Name</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <img src="/assets/img/people/manholevr_shiva.png" alt="Placeholder" style="max-width: 120px; border-radius: 50%; display: block; margin: 0 auto 15px;">
+          <p>Placeholder Title</p>
+          <p>Placeholder description for this team member. Details about their role and contributions go here.</p>
+          <div class="links" style="text-align: center; margin-top: 10px;">
+            <a href="#" class="icon fas fa-fw fa-envelope-square"> Email</a>
+            <a href="#" class="icon fas fa-fw fa-link"> Website</a>
+            <a href="#" class="icon fab fa-fw fa-linkedin"> LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Placeholder 4 -->
+  <div class="modal fade" id="placeholderModal3" tabindex="-1" aria-labelledby="placeholderModal3Label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="placeholderModal3Label">Placeholder Name</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <img src="/assets/img/people/manholevr_ananda.png" alt="Placeholder" style="max-width: 120px; border-radius: 50%; display: block; margin: 0 auto 15px;">
+          <p>Placeholder Title</p>
+          <p>Placeholder description for this team member. Details about their role and contributions go here.</p>
+          <div class="links" style="text-align: center; margin-top: 10px;">
+            <a href="#" class="icon fas fa-fw fa-envelope-square"> Email</a>
+            <a href="#" class="icon fas fa-fw fa-link"> Website</a>
+            <a href="#" class="icon fab fa-fw fa-linkedin"> LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
 </div>
+
+
+</div>
+
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce"> 
 
 <div id="main" role="main" style="margin-top: 0px; padding-bottom: 0px; padding-right: 60px;padding-left: 0; display: inline-block; vertical-align : top;">
@@ -153,6 +285,7 @@ on the issues connected to manual scavenging.
     {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order
     type=page.entries_layout %}
   </div>
+
 </div>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
@@ -381,3 +514,80 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+
+<style>
+.profile-info p {
+  margin: 0;
+  line-height: 1.2;
+}
+
+.core-team-modal {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.core-team-modal h1 {
+  text-align: center;
+  color: #333;
+}
+
+.team-members-grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.team-member {
+  flex: 1 1 calc(25% - 20px);
+  max-width: calc(25% - 20px);
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.team-member img {
+  max-width: 100%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  transition: opacity 0.3s ease;
+}
+
+.team-member:hover {
+  transform: scale(1.01);
+}
+
+.team-member:hover img {
+  opacity: 0.9;
+}
+
+.modal-content {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  animation: fadeIn 0.3s ease;
+}
+
+.modal-header {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ccc;
+}
+
+.modal-body img {
+  margin-bottom: 15px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>

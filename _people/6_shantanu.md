@@ -3,6 +3,7 @@ layout: single
 title:  Shantanu Yennemadi
 position: Sound Designer
 role: "team"
+division: "Animation"
 header:
     teaser: /assets/img/people/mvr_team_shantanu.png
 permalink: /people/arun

@@ -3,6 +3,7 @@ layout: single
 title:  Aman Bhadauria
 position: Digital Art Supervisor
 role: "team"
+division: "Animation"
 header:
     teaser: /assets/img/people/mvr_team_aman.png
 permalink: /people/arun

@@ -3,6 +3,7 @@ layout: single
 title:  Vikas Srivastava
 position: Content Writer
 role: "team"
+division: "Animation"
 header:
     teaser: /assets/img/people/mvr_team_vikas.png
 permalink: /people/vikas

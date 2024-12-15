@@ -3,6 +3,7 @@ layout: single
 title:  Abhishek Verma
 position: Writer & Director
 role: "team"
+division: "Animation"
 header:
     teaser: /assets/img/people/mvr_team_abhishek.png
 permalink: /people/abhishek
