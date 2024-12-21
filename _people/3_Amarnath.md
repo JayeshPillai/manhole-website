@@ -3,8 +3,8 @@ layout: single
 title:  Amarnath Murugan
 position: Technical Director
 role: "team"
-header:
 division: "Animation"
+header:
     teaser: /assets/img/people/mvr_team_amarnath.png
 permalink: /people/amarnath
 type: people
